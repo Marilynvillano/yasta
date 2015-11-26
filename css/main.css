@@ -1,0 +1,36 @@
+h1{
+	color: white;
+	font-size: 5em;
+	font-family: 'Indie Flower', cursive;
+}
+
+.pd-23{
+	padding: 25% 5% 10% 5%;
+}
+
+.pd-15{
+	padding: 7% 5% 5% 5%;
+}
+
+h3
+{
+	color: white;
+	padding: 23% 5% ;
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+}
+.iphone{
+	margin-top: 19%;
+}
+.logo{
+	width: 250px;
+	margin-left: 40%;
+}
+.col-lg-6{
+	padding: 3%;
+}
+a .fa{
+	color: white;
+	font-size: 3em;
+	margin: 0% 0%;
+}
